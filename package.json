@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/deebo91/tabigon/issues"
   },
-  "homepage": "https://github.com/deebo91/tabigon#readme"
+  "homepage": "https://github.com/deebo91/tabigon#readme",
+  "devDependencies": {
+    "grunt-cli": "^1.2.0"
+  }
 }
